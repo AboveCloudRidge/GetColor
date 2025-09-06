@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 云岭之上
+
 import sys
 import tkinter as tk
 import win32api
@@ -66,4 +69,5 @@ def update_info(n):
 
 
 update_info("all")
+
 win.mainloop()
